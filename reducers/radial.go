@@ -1,7 +1,7 @@
 package reducers
 
 import (
-	"github.com/paulmach/go.geo"
+	"github.com/getswift/go.geo"
 )
 
 type distanceFunc func(*geo.Point, *geo.Point) float64

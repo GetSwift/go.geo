@@ -3,7 +3,7 @@ package reducers
 import (
 	"testing"
 
-	"github.com/paulmach/go.geo"
+	"github.com/getswift/go.geo"
 )
 
 func TestVisvalingamThreshold(t *testing.T) {

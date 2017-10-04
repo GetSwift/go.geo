@@ -3,7 +3,7 @@ package reducers
 import (
 	"math"
 
-	"github.com/paulmach/go.geo"
+	"github.com/getswift/go.geo"
 )
 
 // A VisvalingamReducer wraps the Visvalingam function

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/paulmach/go.geo"
+	"github.com/getswift/go.geo"
 )
 
 func TestRadial(t *testing.T) {

@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/paulmach/go.geo"
+	"github.com/getswift/go.geo"
 )
 
 func TestDouglasPeuckerBenchmarkData(t *testing.T) {

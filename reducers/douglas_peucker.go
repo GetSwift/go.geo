@@ -1,7 +1,7 @@
 package reducers
 
 import (
-	"github.com/paulmach/go.geo"
+	"github.com/getswift/go.geo"
 )
 
 // A DouglasPeuckerReducer wraps the DouglasPeucker function
